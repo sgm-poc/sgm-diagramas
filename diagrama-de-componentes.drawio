@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-19T21:05:23.995Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="yWLNtbSAJ8pfLibCKtFh" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-20T16:21:50.013Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="VEnb8F1FQs5ZFS486I_L" version="13.7.3" type="github">
   <diagram id="_4ZGJ1ERenRfXPxDFYeA" name="Page-1">
-    <mxGraphModel dx="2523" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1871" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -238,9 +238,6 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="njMcTKvhB6I6p_ltmmci-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="njMcTKvhB6I6p_ltmmci-51" target="njMcTKvhB6I6p_ltmmci-159">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="njMcTKvhB6I6p_ltmmci-51" value="«HTML»&lt;br&gt;&lt;b&gt;Módulo de Serviços &lt;br&gt;ao Cidadão&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="1430" width="180" height="90" as="geometry" />
@@ -494,6 +491,9 @@
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="njMcTKvhB6I6p_ltmmci-164" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=classic;endFill=1;strokeColor=#000000;" edge="1" parent="1" source="njMcTKvhB6I6p_ltmmci-51" target="njMcTKvhB6I6p_ltmmci-159">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
