@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-22T00:07:17.694Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="P9Uqma2FPNm5kuj297Yb" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-22T23:01:08.391Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="DrsBTuHRwyMvCiqCk5fw" version="13.7.3" type="github">
   <diagram id="_4ZGJ1ERenRfXPxDFYeA" name="Page-1">
     <mxGraphModel dx="2523" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -548,6 +548,25 @@
           <mxGeometry x="-120" y="1580" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="njMcTKvhB6I6p_ltmmci-187" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="njMcTKvhB6I6p_ltmmci-186">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="njMcTKvhB6I6p_ltmmci-188" value="&lt;b&gt;Infraestrutura de integração contínua&lt;br&gt;&lt;/b&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="2010" width="280" height="267.5" as="geometry" />
+        </mxCell>
+        <mxCell id="njMcTKvhB6I6p_ltmmci-189" value="«Github»&lt;br&gt;&lt;b&gt;Repositório de código fonte&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="2060" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="njMcTKvhB6I6p_ltmmci-190" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="njMcTKvhB6I6p_ltmmci-189">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="njMcTKvhB6I6p_ltmmci-191" value="«TravisCI»&lt;br&gt;&lt;b&gt;Serviço de integração contínua&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="2170" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="njMcTKvhB6I6p_ltmmci-192" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="njMcTKvhB6I6p_ltmmci-191">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
