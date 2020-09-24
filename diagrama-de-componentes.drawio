@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-23T22:44:45.924Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="2BNOOPpxG1Wc-rQs5AAq" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-24T00:46:05.393Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="OcxDt_GkcLXizSv-Bqs0" version="13.7.3" type="github">
   <diagram id="_4ZGJ1ERenRfXPxDFYeA" name="Page-1">
     <mxGraphModel dx="2272" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -287,7 +287,7 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="njMcTKvhB6I6p_ltmmci-71" value="«API Gateway»&lt;br&gt;&lt;b&gt;Integração com serviços&lt;/b&gt;" style="html=1;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="njMcTKvhB6I6p_ltmmci-71" value="«API Gateway»&lt;br&gt;&lt;b&gt;Integração com serviços&amp;nbsp;&lt;br&gt;de tributação&lt;br&gt;&lt;/b&gt;" style="html=1;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="565" y="1340" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="njMcTKvhB6I6p_ltmmci-72" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="njMcTKvhB6I6p_ltmmci-71" vertex="1">
