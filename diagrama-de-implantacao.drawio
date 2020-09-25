@@ -1,22 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T00:08:14.085Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="_ChtzllaI0ryl_GUZDiI" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T00:08:32.057Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="fSGgdfSdLjOe_gZ1Boy8" version="13.7.3" type="github">
   <diagram id="mJ1ErPQNQp4oXvshqy3S" name="Page-1">
     <mxGraphModel dx="2272" dy="-299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CDEqd4qP3L8wnWl6k5IC-197" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.917;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.008;exitY=0.252;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="CDEqd4qP3L8wnWl6k5IC-154" target="CDEqd4qP3L8wnWl6k5IC-130">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="492" y="2870" />
-              <mxPoint x="990" y="2870" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CDEqd4qP3L8wnWl6k5IC-198" value="TCP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CDEqd4qP3L8wnWl6k5IC-197">
-          <mxGeometry x="-0.1201" y="1" relative="1" as="geometry">
-            <mxPoint y="11" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="CDEqd4qP3L8wnWl6k5IC-154" value="Serviços de repositório e integração contínua" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="2920" width="270" height="262.5" as="geometry" />
         </mxCell>
