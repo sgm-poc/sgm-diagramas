@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T00:08:32.057Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="fSGgdfSdLjOe_gZ1Boy8" version="13.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T00:43:15.617Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="LPoxq2l-2F6iv6Q74yMp" version="13.7.3" type="github">
   <diagram id="mJ1ErPQNQp4oXvshqy3S" name="Page-1">
     <mxGraphModel dx="2272" dy="-299" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="CDEqd4qP3L8wnWl6k5IC-107" value="Orquestrador de containers" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="2380" width="400" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="CDEqd4qP3L8wnWl6k5IC-121" value="Docker" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+        <mxCell id="CDEqd4qP3L8wnWl6k5IC-121" value="Container" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
           <mxGeometry x="-20" y="2430" width="330" height="350" as="geometry" />
         </mxCell>
         <mxCell id="CDEqd4qP3L8wnWl6k5IC-103" value="Dispositivo móvel" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
@@ -78,7 +78,7 @@
         <mxCell id="CDEqd4qP3L8wnWl6k5IC-123" value="Orquestrador de containers" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="2380" width="400" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="CDEqd4qP3L8wnWl6k5IC-124" value="Docker" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+        <mxCell id="CDEqd4qP3L8wnWl6k5IC-124" value="Container" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="2430" width="330" height="240" as="geometry" />
         </mxCell>
         <mxCell id="CDEqd4qP3L8wnWl6k5IC-125" value="Aplicação" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
