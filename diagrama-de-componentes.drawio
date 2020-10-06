@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-06T02:25:40.299Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="rPL816f8a2S0iEXrB5jQ" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-06T02:29:06.875Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="aWpj9vmyxEMyIxCkhRHn" version="13.7.5" type="github">
   <diagram id="_4ZGJ1ERenRfXPxDFYeA" name="Page-1">
     <mxGraphModel dx="1422" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -793,11 +793,14 @@
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="aPQhzzB0oYYS07UVp2VE-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;exitX=0.5;exitY=0.047;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="aPQhzzB0oYYS07UVp2VE-96" target="aPQhzzB0oYYS07UVp2VE-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="aPQhzzB0oYYS07UVp2VE-96" value="&lt;b&gt;Infraestrutura de integração contínua&lt;br&gt;&lt;/b&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="270" y="2640" width="280" height="267.5" as="geometry" />
+          <mxGeometry x="270" y="2782.5" width="280" height="267.5" as="geometry" />
         </mxCell>
         <mxCell id="aPQhzzB0oYYS07UVp2VE-97" value="«Github»&lt;br&gt;&lt;b&gt;Repositório de código fonte&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="2690" width="180" height="90" as="geometry" />
+          <mxGeometry x="320" y="2832.5" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aPQhzzB0oYYS07UVp2VE-98" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="aPQhzzB0oYYS07UVp2VE-97">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -805,7 +808,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aPQhzzB0oYYS07UVp2VE-99" value="«TravisCI»&lt;br&gt;&lt;b&gt;Serviço de integração contínua&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="2800" width="180" height="90" as="geometry" />
+          <mxGeometry x="320" y="2942.5" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aPQhzzB0oYYS07UVp2VE-100" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="aPQhzzB0oYYS07UVp2VE-99">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
@@ -816,6 +819,17 @@
           <mxGeometry x="1005" y="2322.5" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aPQhzzB0oYYS07UVp2VE-102" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="aPQhzzB0oYYS07UVp2VE-101">
+          <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
+            <mxPoint x="-27" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aPQhzzB0oYYS07UVp2VE-109" value="&lt;b&gt;Infraestrutura de entrega contínua&lt;br&gt;&lt;/b&gt;" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;horizontal=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2582.5" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="aPQhzzB0oYYS07UVp2VE-110" value="«Docker Hub»&lt;br&gt;&lt;b&gt;Repositório de código fonte&lt;/b&gt;" style="html=1;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="2632.5" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="aPQhzzB0oYYS07UVp2VE-111" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" vertex="1" parent="aPQhzzB0oYYS07UVp2VE-110">
           <mxGeometry x="1" width="20" height="20" relative="1" as="geometry">
             <mxPoint x="-27" y="7" as="offset" />
           </mxGeometry>
