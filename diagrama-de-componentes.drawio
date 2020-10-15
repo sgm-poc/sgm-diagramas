@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T00:53:29.167Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="tN9Yu1a57PksuXu5TTFw" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T00:54:22.154Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="JwVkcp00rwTexNHQEx9B" version="13.7.9" type="github">
   <diagram id="_4ZGJ1ERenRfXPxDFYeA" name="Page-1">
     <mxGraphModel dx="2031" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -789,7 +789,7 @@
             <mxPoint x="270" y="1915" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aPQhzzB0oYYS07UVp2VE-94" value="«Bootstrap»&lt;br&gt;&lt;b&gt;Estilo de páginas&lt;/b&gt;" style="html=1;dropTarget=0;" parent="1" vertex="1">
+        <mxCell id="aPQhzzB0oYYS07UVp2VE-94" value="«Angular Material»&lt;br&gt;&lt;b&gt;Estilo de páginas&lt;/b&gt;" style="html=1;dropTarget=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="2210" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="aPQhzzB0oYYS07UVp2VE-95" value="" style="shape=component;jettyWidth=8;jettyHeight=4;" parent="aPQhzzB0oYYS07UVp2VE-94" vertex="1">
