@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T23:03:15.304Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="iIzggDB_WXc2navdWNWp" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T23:17:14.750Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.89 Safari/537.36" etag="8ssdpGftHmfg16gCsxkg" version="13.7.9" type="github">
   <diagram id="mJ1ErPQNQp4oXvshqy3S" name="Page-1">
-    <mxGraphModel dx="1422" dy="-1399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="-1532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -299,7 +299,7 @@
         <mxCell id="Iu1a1SUlpkTYTT_aqA4i-9" value="TCP" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="3007.5" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="6BycpyPbHEOzXYn5RkMg-1" value="Balanceadores de carga" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+        <mxCell id="6BycpyPbHEOzXYn5RkMg-1" value="Balanceadores de carga externa" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="2488.75" width="240" height="320" as="geometry" />
         </mxCell>
         <mxCell id="6BycpyPbHEOzXYn5RkMg-2" value="" style="html=1;dropTarget=0;" vertex="1" parent="1">
